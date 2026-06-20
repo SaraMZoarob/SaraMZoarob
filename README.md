@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sara 👋
 
-<!--
-**SaraMZoarob/SaraMZoarob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused Web Developer with 5 years of experience building performant web applications, backed by a strong foundation in backend development and a passion for creative and interactive experiences.
 
-Here are some ideas to get you started:
+## 🚀 Currently
+- Building modern web experiences
+- Exploring creative development and 3D graphics
+- Learning advanced rendering and motion
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech
+React • Next.js • TypeScript • Node.js • Three.js • Tailwind • PostgreSQL
+
+## 📫 Find Me
+- Portfolio: WIP
+- LinkedIn: linkedin.com/in/sarazoorob
